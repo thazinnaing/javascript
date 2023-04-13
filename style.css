@@ -1,0 +1,10 @@
+.styleTest{
+    width:200px;
+    height:100px;
+    background-color:lightblue;
+}
+.imgclass{
+    width:200px;
+    height:200px;
+    display: block;
+}
